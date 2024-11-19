@@ -1,0 +1,45 @@
+Pregunta: Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación.
+¿Cuánto es 2 + 2?
+a)3
+b)4
+c)5
+Respuesta correcta: b
+Respuesta simulada: B
+Justificación simulada: En matemáticas, la suma de 2 + 2 resulta en 4.
+
+Pregunta: Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación.
+¿Cuánto es 5 - 3?
+a)2
+b)3
+c)4
+Respuesta correcta: a
+Respuesta simulada: A
+Justificación simulada: La operación matemática 5 - 3 resulta en 2.
+
+Pregunta: Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación.
+¿Cuánto  es 7 * 1?
+a)6
+b)7
+c)8
+Respuesta correcta: b
+Respuesta simulada: B
+Justificación simulada: El resultado de multiplicar 7 por 1 es 7.
+
+Pregunta: Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación.
+¿Cuánto  es 10 / 2?
+a)4
+b)5
+c)6
+Respuesta correcta: b
+Respuesta simulada: B
+Justificación simulada: 10 dividido por 2 es igual a 5.
+
+Pregunta: Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación.
+¿Cuánto  es el resultado de 3 + 6?
+a)8
+b)9
+c)10
+Respuesta correcta: b
+Respuesta simulada: B
+Justificación simulada: La respuesta correcta es 9, ya que sumando 3 + 6 obtenemos 9.
+
